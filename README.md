@@ -1,7 +1,7 @@
 # elg5164-order-microservice
 This is a microservice for managing orders in a SOA microservice architecture e-commerce platform. The microservice provides APIs for performing CRUD operations on orders.
 ## API Endpoints
-Current Base URL: 34.148.161.115 
+Current Base URL: http://34.148.161.115 
 
 Get all orders: 
 ```
