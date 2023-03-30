@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mariadb://sydney.cl50p5r4moax.us-east-1.rds.amazonaws.com:3306/orderdb?autoReconnect=true&useSSL=false
+    url: jdbc:mariadb://elg5164-order-db.cognfqvowvlv.us-east-2.rds.amazonaws.com:3306/mariadbtest?autoReconnect=true&useSSL=false
     username: admin
-    password: admin1234
+    password: admin4321
     driverClassName: org.mariadb.jdbc.Driver
 
   jpa:
